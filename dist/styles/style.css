@@ -1,20 +1,24 @@
 @import url("/dist/styles/reset.css");
+@import url("/dist/styles/stylesheet.css");
+@import url("/dist/styles/variables/v-typography.css");
 
-@font-face {
-    font-family: Apercu Italic;
-    src: url(dist/styles/Apercu/Apercu-Italic.otf);
-  }
 
 body {
-    font-family: "Raleway", sans-serif;;
+    font-family: 'Apercu Pro';
+    font-weight: normal;
+    font-style: normal;
+    font-size: var(--text-base);
     line-height: 1.5;
     background-color: rgb(233, 233, 233);
     color: #222;
   }
 
 h1 {
-    font-family:"Abril Fatface", sans-serif;
-    font-size: 3em;
+    font-family: 'Apercu Pro';
+    font-weight: bold;
+    font-style: italic;
+    font-size: var(--text-jumbo);
+
 }
 
 .main{
