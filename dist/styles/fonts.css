@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Apercu Pro';
+    src: url('/dist/assets/Apercu/ApercuPro.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Apercu Pro';
+    src: url('/dist/assets/Apercu/ApercuPro-MediumItalic.woff2') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Apercu Pro';
+    src: url('/dist/assets/Apercu/ApercuPro-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Apercu Pro';
+    src: url('/dist/assets/Apercu/ApercuPro-BoldItalic.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Apercu Pro';
+    src: url('/dist/assets/Apercu/ApercuPro-Mono.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Apercu Pro';
+    src: url('/dist/assets/Apercu/ApercuPro-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Apercu Pro';
+    src: url('/dist/assets/Apercu/ApercuPro-MediumItalic.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+

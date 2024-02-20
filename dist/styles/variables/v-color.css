@@ -1,0 +1,18 @@
+html {
+   
+    --primary-6: #CBCBCB;
+    --primary-5: #929292;
+    --primary-4: #767676;
+    --primary-3: #5A5A5A;
+    --primary-2: rgb(0, 0, 0, 0);
+    --primary-1: #222;
+
+    
+    --secondary-2: #E9E9E9;
+    --secondary-1: #FFFFFF;
+
+    --primary: var(--primary-1);
+    --secondary: var(--secondary-2);
+    --secondary-light: var(--secondary-1);
+    --boton: var(--primary-2);
+}
